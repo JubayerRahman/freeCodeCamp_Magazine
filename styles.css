@@ -158,11 +158,11 @@ hr {
     margin:20px;
     font-family: Raleway;
 }
-.jobayer_link::hover{
-   background-color:#306203;
-}
+
 .jobayer_link:hover{
+  color:#141E28;
   background-color:#306203;
+  font-style:italic;
 }
 
 @media only screen and (max-width: 720px) {
