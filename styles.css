@@ -153,6 +153,13 @@ hr {
   grid-column: 1 / -1;
 }
 .jobayer{
+    text-align: center;
+    letter-spacing: inherit;
+    font-size: inherit;
+    font-family: Raleway;
+}
+.jobayer a::hover{
+   background-color:rgb(20, 30, 40);
 }
 
 @media only screen and (max-width: 720px) {
